@@ -58,8 +58,8 @@
 - `N` – Repeat last search **backward**  
 - `:%s/old/new/g` – Replace **all occurrences** of "old" with "new"  
 - `:s/old/new/g` – Replace **all occurrences** in the current line
-- `**Command**` "head -20 <filename>"  to print first 20 lines of the file
-- `**Command**` "tail -20 <filename>"  to print last 20 lines of the file
+- `**Command**` "head -20 fileName"  to print first 20 lines of the file
+- `**Command**` "tail -20 fileName"  to print last 20 lines of the file
 
 ---
 
